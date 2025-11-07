@@ -1,0 +1,396 @@
+[{
+  "_id": {
+    "$oid": "689dfc595548b860fd165c4f"
+  },
+  "date": {
+    "$date": "2025-08-14T15:10:17.769Z"
+  },
+  "amount": 2500,
+  "booking": {
+    "$oid": "689dfc445548b860fd165c38"
+  },
+  "farmer": {
+    "$oid": "68947ba868253f7c1a09c8c1"
+  },
+  "createdAt": {
+    "$date": "2025-08-14T15:10:17.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T15:10:17.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a080be0a867b65accb1cc4"
+  },
+  "date": {
+    "$date": "2025-08-16T12:59:42.938Z"
+  },
+  "amount": 27500,
+  "booking": {
+    "$oid": "68a07e0c590e75a3e26322dc"
+  },
+  "farmer": {
+    "$oid": "68947ba868253f7c1a09c8c2"
+  },
+  "createdAt": {
+    "$date": "2025-08-16T12:59:42.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T12:59:42.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68af11c0a4cd144ff925374b"
+  },
+  "date": {
+    "$date": "2025-08-27T14:10:08.728Z"
+  },
+  "amount": 25000,
+  "booking": {
+    "$oid": "68a846c860464b745b8e3857"
+  },
+  "farmer": {
+    "$oid": "68a84614cd2b0274d56cd30b"
+  },
+  "createdAt": {
+    "$date": "2025-08-27T14:10:08.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T14:10:08.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2a1d13169695a722e7568"
+  },
+  "date": {
+    "$date": "2025-09-11T10:17:53.440Z"
+  },
+  "amount": 0,
+  "booking": {
+    "$oid": "68c29f3f5546a3624c8e2c39"
+  },
+  "farmer": {
+    "$oid": "68c29d2614848b6321e27364"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T10:17:53.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T10:17:53.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2a530fde7de4a332ba9e3"
+  },
+  "date": {
+    "$date": "2025-09-11T10:32:16.849Z"
+  },
+  "amount": 0,
+  "booking": {
+    "$oid": "68c2a4b2fde7de4a332ba9aa"
+  },
+  "farmer": {
+    "$oid": "68c2a45cfde7de4a332ba95b"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T10:32:16.849Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T10:32:16.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2a543fde7de4a332ba9fc"
+  },
+  "date": {
+    "$date": "2025-09-11T10:32:35.108Z"
+  },
+  "amount": 0,
+  "booking": {
+    "$oid": "68c2a2883169695a722e76cd"
+  },
+  "farmer": {
+    "$oid": "68c2a2543169695a722e7682"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T10:32:35.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T10:32:35.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2a7a6540ebd71ad96f935"
+  },
+  "date": {
+    "$date": "2025-09-11T10:42:46.309Z"
+  },
+  "amount": 0,
+  "booking": {
+    "$oid": "68c2a78c540ebd71ad96f8fd"
+  },
+  "farmer": {
+    "$oid": "68c2a73a540ebd71ad96f8aa"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T10:42:46.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T10:42:46.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2a8dd540ebd71ad96fa54"
+  },
+  "date": {
+    "$date": "2025-09-11T10:47:57.662Z"
+  },
+  "amount": 0,
+  "booking": {
+    "$oid": "68c2a644540ebd71ad96f87d"
+  },
+  "farmer": {
+    "$oid": "68c2a5ef540ebd71ad96f823"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T10:47:57.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T10:47:57.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2d14102ab00b86d46a3e2"
+  },
+  "date": {
+    "$date": "2025-09-11T13:40:17.325Z"
+  },
+  "amount": 910,
+  "booking": {
+    "$oid": "68c2d12a02ab00b86d46a39f"
+  },
+  "farmer": {
+    "$oid": "68c2c52aa99f3df5fe83957b"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T13:40:17.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T13:40:17.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c2decee4cb5a5e8ff8458f"
+  },
+  "date": {
+    "$date": "2025-09-11T14:38:06.157Z"
+  },
+  "amount": 600,
+  "booking": {
+    "$oid": "68c2d68002ab00b86d46a64d"
+  },
+  "farmer": {
+    "$oid": "68c2d33902ab00b86d46a466"
+  },
+  "createdAt": {
+    "$date": "2025-09-11T14:38:06.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-11T14:38:06.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb0f0dc174a103b630a733"
+  },
+  "date": {
+    "$date": "2025-09-17T19:42:05.044Z"
+  },
+  "amount": 2000,
+  "booking": {
+    "$oid": "68cb0dabc174a103b630a703"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8a2"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T19:42:05.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:42:05.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb0f15c174a103b630a746"
+  },
+  "date": {
+    "$date": "2025-09-17T19:42:13.187Z"
+  },
+  "amount": 2800,
+  "booking": {
+    "$oid": "68cb0d57c174a103b630a6de"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8a0"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T19:42:13.188Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:42:13.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb10f17e93a17b8d0bf54c"
+  },
+  "date": {
+    "$date": "2025-09-17T19:50:09.242Z"
+  },
+  "amount": 3000,
+  "booking": {
+    "$oid": "68cb10e27e93a17b8d0bf51c"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8a4"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T19:50:09.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:50:09.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb12aa7e93a17b8d0bf5a1"
+  },
+  "date": {
+    "$date": "2025-09-17T19:57:30.248Z"
+  },
+  "amount": 40000,
+  "booking": {
+    "$oid": "68cb127e7e93a17b8d0bf576"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8a3"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T19:57:30.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:57:30.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb15d1c7ac36c9ee8ebfd0"
+  },
+  "date": {
+    "$date": "2025-09-17T20:10:57.167Z"
+  },
+  "amount": 2000,
+  "booking": {
+    "$oid": "68cb1462c7ac36c9ee8ebf7f"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8a6"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T20:10:57.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T20:10:57.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc251862161ae99b377e9d"
+  },
+  "date": {
+    "$date": "2025-09-18T15:28:24.738Z"
+  },
+  "amount": 1714,
+  "booking": {
+    "$oid": "68cc24cb62161ae99b377e70"
+  },
+  "farmer": {
+    "$oid": "68cc246a62161ae99b377e5d"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T15:28:24.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:28:24.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccf505cbf1c9c0c6e2833b"
+  },
+  "date": {
+    "$date": "2025-09-19T06:15:33.938Z"
+  },
+  "amount": 3100,
+  "booking": {
+    "$oid": "68ccefc5cbf1c9c0c6e27e54"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8a8"
+  },
+  "createdAt": {
+    "$date": "2025-09-19T06:15:33.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T06:15:33.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccf868cbf1c9c0c6e28382"
+  },
+  "date": {
+    "$date": "2025-09-19T06:30:00.481Z"
+  },
+  "amount": 1200,
+  "booking": {
+    "$oid": "68ccf849cbf1c9c0c6e2835e"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8aa"
+  },
+  "createdAt": {
+    "$date": "2025-09-19T06:30:00.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T06:30:00.482Z"
+  },
+  "__v": 0
+}]

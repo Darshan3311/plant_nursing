@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "689dd417f1e36c1aebd86bb6"
+  },
+  "type": "Tray (Monthly)",
+  "shop": "Shop C",
+  "invoice": "789",
+  "total": 5246,
+  "paid": 220,
+  "remaining": 5026,
+  "date": {
+    "$date": "2025-08-08T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-14T12:18:31.464Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T12:18:31.464Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689b150476b4886770f08eb1"
+  },
+  "type": "Seed",
+  "shop": "Shop A",
+  "invoice": "540",
+  "total": 5000,
+  "paid": 50,
+  "remaining": 4950,
+  "date": {
+    "$date": "2025-08-12T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-12T10:18:44.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T12:30:26.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689de05409bd2d8b658902d0"
+  },
+  "type": "Cocopeat",
+  "shop": "Shop A",
+  "invoice": "5000",
+  "total": 60,
+  "paid": 2,
+  "remaining": 58,
+  "date": {
+    "$date": "2025-08-14T00:00:00.000Z"
+  },
+  "status": "Done",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-14T13:10:44.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T13:10:44.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689de04b09bd2d8b658902c5"
+  },
+  "type": "Seed",
+  "shop": "Shop A",
+  "invoice": "",
+  "total": 0,
+  "paid": 0,
+  "remaining": 0,
+  "date": null,
+  "status": "Done",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-14T13:10:35.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T13:10:35.414Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689dd0c8f1e36c1aebd86af7"
+  },
+  "type": "Cocopeat",
+  "shop": "Shop A",
+  "invoice": "5000",
+  "total": 60,
+  "paid": 2,
+  "remaining": 58,
+  "date": {
+    "$date": "2025-08-14T00:00:00.000Z"
+  },
+  "status": "Pending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-14T12:04:24.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T12:04:24.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c47e63dddadbde25526fae"
+  },
+  "type": "Seed",
+  "shop": "Shop A",
+  "invoice": "A222",
+  "total": 12000,
+  "paid": 1000,
+  "remaining": 11000,
+  "date": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "status": "Done",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-12T20:11:15.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T20:11:15.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c58a2bc08e7846238a6d7b"
+  },
+  "type": "Seed",
+  "shop": "Shop A",
+  "invoice": "A222",
+  "total": 12000,
+  "paid": 1000,
+  "remaining": 11000,
+  "date": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "status": "Done",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-13T15:13:47.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-13T15:13:47.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c58b04c08e7846238a6f36"
+  },
+  "type": "Seed",
+  "shop": "Shop A",
+  "invoice": "A222",
+  "total": 12000,
+  "paid": 1000,
+  "remaining": 11000,
+  "date": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "status": "Done",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-13T15:17:24.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-13T15:17:24.422Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c9c0bd1b37eff388cd6a36"
+  },
+  "type": "Seed",
+  "shop": "Shop A",
+  "invoice": "A222",
+  "total": 12000,
+  "paid": 1000,
+  "remaining": 11000,
+  "date": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "status": "Done",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-16T19:55:41.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T19:55:41.013Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c9c0f71b37eff388cd6a65"
+  },
+  "type": "Pesticide",
+  "shop": "Shop A",
+  "invoice": "111111",
+  "total": 5000,
+  "paid": 5000,
+  "remaining": 0,
+  "date": {
+    "$date": "2025-09-17T00:00:00.000Z"
+  },
+  "status": "Done",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-16T19:56:39.660Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T19:56:39.660Z"
+  }
+}]

@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "68ccefc5cbf1c9c0c6e27e54"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8a8"
+  },
+  "cropGroup": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "bookingDate": {
+    "$date": "2025-09-19T00:00:00.000Z"
+  },
+  "varieties": [
+    {
+      "name": "Green",
+      "quantity": 10,
+      "ratePerUnit": 100,
+      "_id": {
+        "$oid": "68ccefc5cbf1c9c0c6e27e55"
+      }
+    },
+    {
+      "name": "White",
+      "quantity": 21,
+      "ratePerUnit": 100,
+      "_id": {
+        "$oid": "68ccefc5cbf1c9c0c6e27e56"
+      }
+    }
+  ],
+  "plotNumber": "c-20",
+  "lotNumber": "a-20",
+  "sowingDate": {
+    "$date": "2025-11-22T00:00:00.000Z"
+  },
+  "vehicleNumber": "2020",
+  "driverName": "Kunal",
+  "startKm": 0,
+  "endKm": 0,
+  "advancePayment": 3100,
+  "totalPayment": 3100,
+  "pendingPayment": 0,
+  "finalTotalPrice": 3100,
+  "createdAt": {
+    "$date": "2025-09-19T05:53:09.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccf849cbf1c9c0c6e2835e"
+  },
+  "farmer": {
+    "$oid": "68ca1adcf876de0f55bea8aa"
+  },
+  "cropGroup": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "bookingDate": {
+    "$date": "2025-09-19T00:00:00.000Z"
+  },
+  "varieties": [
+    {
+      "name": "Green",
+      "quantity": 2,
+      "ratePerUnit": 100,
+      "_id": {
+        "$oid": "68ccf849cbf1c9c0c6e2835f"
+      }
+    },
+    {
+      "name": "White",
+      "quantity": 10,
+      "ratePerUnit": 100,
+      "_id": {
+        "$oid": "68ccf849cbf1c9c0c6e28360"
+      }
+    }
+  ],
+  "plotNumber": "c-20",
+  "lotNumber": "12",
+  "sowingDate": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "vehicleNumber": "2345",
+  "driverName": "kunal",
+  "startKm": 0,
+  "endKm": 0,
+  "advancePayment": 1200,
+  "totalPayment": 1200,
+  "pendingPayment": 0,
+  "finalTotalPrice": 1200,
+  "createdAt": {
+    "$date": "2025-09-19T06:29:29.577Z"
+  },
+  "__v": 0
+}]

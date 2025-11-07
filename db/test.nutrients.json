@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "68c60b27c08e7846238a75d1"
+  },
+  "name": "Bournvita",
+  "unit": "kg",
+  "currentStock": 200,
+  "threshold": 100,
+  "lastUsed": {
+    "$date": "2025-09-14T00:24:07.631Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T00:24:07.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T00:24:07.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c60bafc08e7846238a7652"
+  },
+  "name": "Mango",
+  "unit": "g",
+  "currentStock": 300,
+  "threshold": 0,
+  "lastUsed": {
+    "$date": "2025-09-14T00:26:23.625Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T00:26:23.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T00:26:23.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c60c3bc08e7846238a7695"
+  },
+  "name": "Oil",
+  "unit": "ml",
+  "currentStock": 100,
+  "threshold": 12,
+  "lastUsed": {
+    "$date": "2025-09-14T00:28:43.333Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T00:28:43.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T00:28:43.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c60c63c08e7846238a7698"
+  },
+  "name": "Banana",
+  "unit": "kg",
+  "currentStock": 10,
+  "threshold": 30,
+  "lastUsed": {
+    "$date": "2025-09-14T00:29:23.014Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T00:29:23.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T00:29:23.100Z"
+  },
+  "__v": 0
+}]

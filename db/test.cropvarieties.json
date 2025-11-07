@@ -1,0 +1,323 @@
+[{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97154"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f9714f"
+  },
+  "name": "Tomato Hybrid",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97155"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f9714f"
+  },
+  "name": "Cabbage Green",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97156"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f9714f"
+  },
+  "name": "Carrot Red",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97157"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f97150"
+  },
+  "name": "Banana Rasthali",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97158"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f97150"
+  },
+  "name": "Mango Alphonso",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97159"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f97151"
+  },
+  "name": "Rose Red",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f9715a"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f97151"
+  },
+  "name": "Marigold Orange",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f9715b"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f97152"
+  },
+  "name": "Tulsi",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f9715c"
+  },
+  "group": {
+    "$oid": "68ca1acdabdbc97078f97152"
+  },
+  "name": "Mint",
+  "defaultUnit": "seed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cb0d58c174a103b630a6ea"
+  },
+  "group": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "name": "Mango",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-17T19:34:48.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:34:48.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb0d58c174a103b630a6ed"
+  },
+  "group": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "name": "Apple",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-17T19:34:48.568Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:34:48.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb0d58c174a103b630a6f0"
+  },
+  "group": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "name": "Pink",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-17T19:34:48.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:34:48.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb0d58c174a103b630a6f3"
+  },
+  "group": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "name": "Red",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-17T19:34:48.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:34:48.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb10e37e93a17b8d0bf52d"
+  },
+  "group": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "name": "White",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-17T19:49:55.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:49:55.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc24cc62161ae99b377e7b"
+  },
+  "group": {
+    "$oid": "68cc24cb62161ae99b377e6e"
+  },
+  "name": "Tomato",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-18T15:27:08.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:27:08.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc24cc62161ae99b377e7e"
+  },
+  "group": {
+    "$oid": "68cc24cb62161ae99b377e6e"
+  },
+  "name": "Green",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-18T15:27:08.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:27:08.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc24cc62161ae99b377e81"
+  },
+  "group": {
+    "$oid": "68cc24cb62161ae99b377e6e"
+  },
+  "name": "Papaya",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-18T15:27:08.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:27:08.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccda4b112c13aac52b0a94"
+  },
+  "group": {
+    "$oid": "68cc24cb62161ae99b377e6e"
+  },
+  "name": "Brinjal",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-19T04:21:31.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:21:31.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccda4b112c13aac52b0a97"
+  },
+  "group": {
+    "$oid": "68cc24cb62161ae99b377e6e"
+  },
+  "name": "Watermelon",
+  "defaultUnit": "seed",
+  "createdAt": {
+    "$date": "2025-09-19T04:21:31.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:21:31.324Z"
+  },
+  "__v": 0
+}]

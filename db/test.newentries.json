@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "68ccef88cbf1c9c0c6e27e42"
+  },
+  "date": {
+    "$date": "2025-09-19T00:00:00.000Z"
+  },
+  "cropGroup": "Color",
+  "varieties": [
+    {
+      "variety": "Green",
+      "_id": {
+        "$oid": "68ccef88cbf1c9c0c6e27e43"
+      }
+    },
+    {
+      "variety": "White",
+      "_id": {
+        "$oid": "68ccef88cbf1c9c0c6e27e44"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T05:52:08.111Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T05:52:08.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccfcc5cbf1c9c0c6e285ad"
+  },
+  "date": {
+    "$date": "2025-09-19T00:00:00.000Z"
+  },
+  "cropGroup": "Fruit",
+  "varieties": [
+    {
+      "variety": "Mango",
+      "_id": {
+        "$oid": "68cd00f5fb818639303133c1"
+      }
+    },
+    {
+      "variety": "Wheat",
+      "_id": {
+        "$oid": "68cd00f5fb818639303133c2"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T06:48:37.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T07:06:29.650Z"
+  },
+  "__v": 0
+}]

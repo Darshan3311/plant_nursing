@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "68cb0a3038092d30ddfbd5fe"
+  },
+  "name": "Nisha",
+  "number": "1231231234",
+  "address": "Pune",
+  "crop": "Watermelon",
+  "variety": "Shevanti",
+  "rate": 100,
+  "quantity": 200,
+  "total": 20000,
+  "date": {
+    "$date": "2025-09-17T19:21:20.767Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T19:21:20.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:21:20.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb0a7b38092d30ddfbd602"
+  },
+  "name": "Nisha",
+  "number": "1231231234",
+  "address": "Pune",
+  "crop": "Watermelon",
+  "variety": "10",
+  "rate": 100,
+  "quantity": 200,
+  "total": 20000,
+  "date": {
+    "$date": "2025-09-17T19:22:35.237Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T19:22:35.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:22:35.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cb0b08c174a103b630a65d"
+  },
+  "name": "Nisha",
+  "number": "1231231234",
+  "address": "Pune",
+  "crop": "Watermelon",
+  "variety": "10",
+  "rate": 100,
+  "quantity": 200,
+  "total": 20000,
+  "date": {
+    "$date": "2025-09-17T19:24:56.118Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T19:24:56.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:24:56.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc273762161ae99b3780c3"
+  },
+  "name": "Nisha",
+  "number": "9292929292",
+  "address": "sdfghj",
+  "crop": "Fruit",
+  "variety": "Grapes",
+  "rate": 20,
+  "quantity": 300,
+  "total": 6000,
+  "date": {
+    "$date": "2025-09-18T15:37:27.556Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T15:37:27.557Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:37:27.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc27a562161ae99b3780db"
+  },
+  "name": "Prashant",
+  "number": "9090901212",
+  "address": "sdfghj",
+  "crop": "Fruit",
+  "variety": "Grapes",
+  "rate": 10,
+  "quantity": 30,
+  "total": 300,
+  "date": {
+    "$date": "2025-09-18T15:39:17.423Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T15:39:17.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:39:17.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccfbfdcbf1c9c0c6e28437"
+  },
+  "name": "Nisha",
+  "number": "9900990090",
+  "address": "Nashik Pune",
+  "crop": "Color",
+  "variety": "White",
+  "rate": 2.3,
+  "quantity": 1444,
+  "total": 3321.2,
+  "date": {
+    "$date": "2025-09-19T06:45:17.079Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-19T06:45:17.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T06:45:17.093Z"
+  },
+  "__v": 0
+}]

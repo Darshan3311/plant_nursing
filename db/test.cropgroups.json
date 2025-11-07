@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f9714f"
+  },
+  "name": "Vegetables",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97150"
+  },
+  "name": "Fruits",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97151"
+  },
+  "name": "Flowers",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1acdabdbc97078f97152"
+  },
+  "name": "Herbs",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:19:57.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:19:57.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cb0d57c174a103b630a6dc"
+  },
+  "name": "Color",
+  "createdAt": {
+    "$date": "2025-09-17T19:34:47.714Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:34:47.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc24cb62161ae99b377e6e"
+  },
+  "name": "Fruit",
+  "createdAt": {
+    "$date": "2025-09-18T15:27:07.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:27:07.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc255b62161ae99b377eb9"
+  },
+  "name": "Vegetable",
+  "createdAt": {
+    "$date": "2025-09-18T15:29:31.328Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:29:31.328Z"
+  },
+  "__v": 0
+}]

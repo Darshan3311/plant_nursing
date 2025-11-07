@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "68a75cf4f20942f6bbf60b15"
+  },
+  "varietyRef": {
+    "$oid": "688ba7d3731562851cc14133"
+  },
+  "__v": 0,
+  "bookedQuantity": 20,
+  "createdAt": {
+    "$date": "2025-08-21T17:52:52.165Z"
+  },
+  "cropGroup": {
+    "$oid": "688ba7d3731562851cc1412d"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-21T17:52:52.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T17:52:52.165Z"
+  },
+  "varietyName": "Tomato Hybrid"
+},
+{
+  "_id": {
+    "$oid": "68a1ab81f20942f6bbf60b10"
+  },
+  "varietyRef": {
+    "$oid": "688ba7d3731562851cc1413b"
+  },
+  "__v": 0,
+  "bookedQuantity": 889748,
+  "createdAt": {
+    "$date": "2025-08-17T10:14:25.937Z"
+  },
+  "cropGroup": {
+    "$oid": "688ba7d3731562851cc14130"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-22T10:13:26.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T10:13:26.210Z"
+  },
+  "varietyName": "Mint"
+},
+{
+  "_id": {
+    "$oid": "68ac9e63f20942f6bbf60b19"
+  },
+  "varietyRef": {
+    "$oid": "68ac9deaa0ed7a9ce9a12735"
+  },
+  "__v": 0,
+  "bookedQuantity": 500,
+  "createdAt": {
+    "$date": "2025-08-25T17:33:23.847Z"
+  },
+  "cropGroup": {
+    "$oid": "68ac9b3f0c1b34ba3358aff5"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-25T17:33:23.843Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T17:33:23.847Z"
+  },
+  "varietyName": "so"
+},
+{
+  "_id": {
+    "$oid": "68a7575cf20942f6bbf60b14"
+  },
+  "varietyRef": {
+    "$oid": "688ba7d3731562851cc14138"
+  },
+  "__v": 0,
+  "bookedQuantity": 5220,
+  "createdAt": {
+    "$date": "2025-08-21T17:29:00.154Z"
+  },
+  "cropGroup": {
+    "$oid": "688ba7d3731562851cc1412f"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-22T12:58:28.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T12:58:28.776Z"
+  },
+  "varietyName": "Rose Red"
+},
+{
+  "_id": {
+    "$oid": "68a1b07cf20942f6bbf60b13"
+  },
+  "varietyRef": {
+    "$oid": "688ba7d3731562851cc14139"
+  },
+  "__v": 0,
+  "bookedQuantity": 95262,
+  "createdAt": {
+    "$date": "2025-08-17T10:35:40.644Z"
+  },
+  "cropGroup": {
+    "$oid": "688ba7d3731562851cc1412f"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-26T15:42:08.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-26T15:42:08.670Z"
+  },
+  "varietyName": "Marigold Orange"
+},
+{
+  "_id": {
+    "$oid": "68a1aa7df20942f6bbf60b0f"
+  },
+  "varietyRef": {
+    "$oid": "688ba7d3731562851cc14136"
+  },
+  "__v": 0,
+  "bookedQuantity": 7898427,
+  "createdAt": {
+    "$date": "2025-08-17T10:10:05.935Z"
+  },
+  "cropGroup": {
+    "$oid": "688ba7d3731562851cc1412e"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-22T10:41:33.731Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T10:41:33.731Z"
+  },
+  "varietyName": "Banana Rasthali"
+},
+{
+  "_id": {
+    "$oid": "68a765dcf20942f6bbf60b16"
+  },
+  "varietyRef": {
+    "$oid": "688ba7d3731562851cc1413a"
+  },
+  "__v": 0,
+  "bookedQuantity": 20,
+  "createdAt": {
+    "$date": "2025-08-21T18:30:52.027Z"
+  },
+  "cropGroup": {
+    "$oid": "688ba7d3731562851cc14130"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-21T18:30:52.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-21T18:30:52.027Z"
+  },
+  "varietyName": "Tulsi"
+},
+{
+  "_id": {
+    "$oid": "68a849cbf20942f6bbf60b17"
+  },
+  "varietyRef": {
+    "$oid": "688ba7d3731562851cc14137"
+  },
+  "__v": 0,
+  "bookedQuantity": 200,
+  "createdAt": {
+    "$date": "2025-08-22T10:43:23.868Z"
+  },
+  "cropGroup": {
+    "$oid": "688ba7d3731562851cc1412e"
+  },
+  "lastBookedAt": {
+    "$date": "2025-08-22T10:43:23.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T10:43:23.868Z"
+  },
+  "varietyName": "Mango Alphonso"
+}]

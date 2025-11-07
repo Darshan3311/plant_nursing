@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "68a05f397c14519915d4376b"
+  },
+  "assetId": "AS-899421",
+  "name": "soham",
+  "type": "vehicle",
+  "purchaseDate": {
+    "$date": "2025-08-16T00:00:00.000Z"
+  },
+  "value": 50,
+  "status": "inuse",
+  "description": "fjkslkfj",
+  "createdAt": {
+    "$date": "2025-08-16T10:36:41.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T10:36:41.391Z"
+  },
+  "__v": 0
+}]

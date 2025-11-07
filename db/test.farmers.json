@@ -1,0 +1,319 @@
+[{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea89e"
+  },
+  "fullName": "Ramesh Patil",
+  "phone": "9876543210",
+  "address": "Village A, Nashik",
+  "aadhaarNumber": "123412341234",
+  "vehicleNumber": "MH15AB1234",
+  "driverName": "Shivraj",
+  "pincode": "422001",
+  "status": "new",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:20:12.501Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea89f"
+  },
+  "fullName": "Suresh Jadhav",
+  "phone": "9876543211",
+  "address": "Village B, Pune",
+  "aadhaarNumber": "234523452345",
+  "vehicleNumber": "MH12CD2345",
+  "driverName": "Ramu",
+  "pincode": "411001",
+  "status": "new",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:20:12.501Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a0"
+  },
+  "fullName": "Ganesh Pawar",
+  "phone": "9876543212",
+  "address": "Village C, Satara",
+  "aadhaarNumber": "345634563456",
+  "vehicleNumber": "MH11EF3456",
+  "driverName": "Keshav",
+  "pincode": "415001",
+  "status": "completed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:42:13.294Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a1"
+  },
+  "fullName": "Vijay Kale",
+  "phone": "9876543213",
+  "address": "Village D, Sangli",
+  "aadhaarNumber": "456745674567",
+  "vehicleNumber": "MH10GH4567",
+  "driverName": "Naresh",
+  "pincode": "416416",
+  "status": "pending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:48:48.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a2"
+  },
+  "fullName": "Arun Deshmukh",
+  "phone": "9876543214",
+  "address": "Village E, Kolhapur",
+  "aadhaarNumber": "567856785678",
+  "vehicleNumber": "MH09IJ5678",
+  "driverName": "Prakash",
+  "pincode": "416001",
+  "status": "completed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:42:05.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a3"
+  },
+  "fullName": "Sunil Sharma",
+  "phone": "9876543215",
+  "address": "Village F, Aurangabad",
+  "aadhaarNumber": "678967896789",
+  "vehicleNumber": "MH20KL6789",
+  "driverName": "Anil",
+  "pincode": "431001",
+  "status": "completed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:57:30.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a4"
+  },
+  "fullName": "Mahesh More",
+  "phone": "9876543216",
+  "address": "Village G, Solapur",
+  "aadhaarNumber": "789078907890",
+  "vehicleNumber": "MH13MN7890",
+  "driverName": "Deepak",
+  "pincode": "413001",
+  "status": "completed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T19:50:09.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a5"
+  },
+  "fullName": "Anand Kulkarni",
+  "phone": "9876543217",
+  "address": "Village H, Nagpur",
+  "aadhaarNumber": "890189018901",
+  "vehicleNumber": "MH31OP8901",
+  "driverName": "Sanjay",
+  "pincode": "440001",
+  "status": "pending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T04:21:30.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a6"
+  },
+  "fullName": "Kishor Yadav",
+  "phone": "9876543218",
+  "address": "Village I, Ahmednagar",
+  "aadhaarNumber": "901290129012",
+  "vehicleNumber": "MH16QR9012",
+  "driverName": "Vikas",
+  "pincode": "414001",
+  "status": "completed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T20:10:57.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a7"
+  },
+  "fullName": "Pravin Gaikwad",
+  "phone": "9876543219",
+  "address": "Village J, Jalgaon",
+  "aadhaarNumber": "123512351235",
+  "vehicleNumber": "MH19ST1235",
+  "driverName": "Manoj",
+  "pincode": "425001",
+  "status": "pending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:29:31.451Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a8"
+  },
+  "fullName": "Sachin Bhosale",
+  "phone": "9876543220",
+  "address": "Village K, Latur",
+  "aadhaarNumber": "234623462346",
+  "vehicleNumber": "MH24UV2346",
+  "driverName": "Rohit",
+  "pincode": "413512",
+  "status": "completed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T06:15:34.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8a9"
+  },
+  "fullName": "Rahul Shinde",
+  "phone": "9876543221",
+  "address": "Village L, Nanded",
+  "aadhaarNumber": "345734573457",
+  "vehicleNumber": "MH26WX3457",
+  "driverName": "Amit",
+  "pincode": "431601",
+  "status": "new",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8aa"
+  },
+  "fullName": "Yogesh Chavan",
+  "phone": "9876543222",
+  "address": "Village M, Amravati",
+  "aadhaarNumber": "456845684568",
+  "vehicleNumber": "MH27YZ4568",
+  "driverName": "Rajesh",
+  "pincode": "444601",
+  "status": "completed",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T06:30:00.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8ab"
+  },
+  "fullName": "Nitin Thakur",
+  "phone": "9876543223",
+  "address": "Village N, Beed",
+  "aadhaarNumber": "567956795679",
+  "vehicleNumber": "MH23AB5679",
+  "driverName": "Girish",
+  "pincode": "431122",
+  "status": "new",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca1adcf876de0f55bea8ac"
+  },
+  "fullName": "Sandeep Naik",
+  "phone": "9876543224",
+  "address": "Village O, Osmanabad",
+  "aadhaarNumber": "678067806780",
+  "vehicleNumber": "MH25CD6780",
+  "driverName": "Harish",
+  "pincode": "413501",
+  "status": "new",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T02:20:12.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68cc246a62161ae99b377e5d"
+  },
+  "fullName": "Nisha",
+  "phone": "9292929292",
+  "address": "sdfghj",
+  "vehicleNumber": "200200",
+  "driverName": "Kunal",
+  "pincode": "300300",
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-09-18T15:25:30.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:28:24.799Z"
+  },
+  "__v": 0
+}]

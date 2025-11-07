@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "68a1b00ff20942f6bbf60b11"
+  },
+  "variety": {
+    "$oid": "688ba7d3731562851cc14139"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-17T10:33:51.037Z"
+  },
+  "lastUpdated": {
+    "$date": "2025-08-26T15:42:08.717Z"
+  },
+  "lowerLimit": 300,
+  "quantity": 33681,
+  "unit": "seed",
+  "updatedAt": {
+    "$date": "2025-08-26T15:42:08.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a0648af20942f6bbf60b0e"
+  },
+  "variety": {
+    "$oid": "688ba7d3731562851cc14136"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-16T10:59:22.607Z"
+  },
+  "lastUpdated": {
+    "$date": "2025-08-22T10:41:33.749Z"
+  },
+  "lowerLimit": 50,
+  "quantity": 0,
+  "unit": "seed",
+  "updatedAt": {
+    "$date": "2025-08-22T10:41:33.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ac9e0ff20942f6bbf60b18"
+  },
+  "variety": {
+    "$oid": "68ac9deaa0ed7a9ce9a12735"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-25T17:31:59.965Z"
+  },
+  "lastUpdated": {
+    "$date": "2025-08-25T17:33:23.877Z"
+  },
+  "lowerLimit": 20,
+  "quantity": 4500,
+  "unit": "seed",
+  "updatedAt": {
+    "$date": "2025-08-25T17:33:23.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a1b027f20942f6bbf60b12"
+  },
+  "variety": {
+    "$oid": "688ba7d3731562851cc14138"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-17T10:34:15.363Z"
+  },
+  "lastUpdated": {
+    "$date": "2025-08-22T12:58:28.803Z"
+  },
+  "lowerLimit": 500,
+  "quantity": 494780,
+  "unit": "seed",
+  "updatedAt": {
+    "$date": "2025-08-22T12:58:28.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c47ea67b2797eee2a5d6f5"
+  },
+  "variety": {
+    "$oid": "68c47398773b4de25ac8bce3"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-12T20:12:23.169Z"
+  },
+  "lastUpdated": {
+    "$date": "2025-09-12T20:12:23.168Z"
+  },
+  "lowerLimit": 100,
+  "quantity": 200,
+  "unit": "seed",
+  "updatedAt": {
+    "$date": "2025-09-12T20:12:23.169Z"
+  }
+}]

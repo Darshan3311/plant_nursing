@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "689db241357450d2bf1e00ff"
+  },
+  "labor": {
+    "$oid": "6891bc3f98d23cebc748eff5"
+  },
+  "month": "2025-08",
+  "totalPresentDays": 1,
+  "totalAmount": 500,
+  "status": "paid",
+  "paymentDate": {
+    "$date": "2025-08-14T09:54:09.901Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-14T09:54:09.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T09:54:09.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689db218357450d2bf1e007a"
+  },
+  "labor": {
+    "$oid": "689086b8f406711948bd7333"
+  },
+  "month": "2025-08",
+  "totalPresentDays": 0,
+  "totalAmount": 50,
+  "status": "paid",
+  "paymentDate": {
+    "$date": "2025-08-14T09:53:28.188Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-14T09:53:28.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T09:53:28.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689db2f6357450d2bf1e01df"
+  },
+  "labor": {
+    "$oid": "6891ae5d98d23cebc748efbc"
+  },
+  "month": "2025-08",
+  "totalPresentDays": 0,
+  "totalAmount": 0,
+  "status": "paid",
+  "paymentDate": {
+    "$date": "2025-08-14T09:57:10.664Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-14T09:57:10.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T09:57:10.666Z"
+  },
+  "__v": 0
+}]

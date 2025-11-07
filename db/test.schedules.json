@@ -1,0 +1,1512 @@
+[{
+  "_id": {
+    "$oid": "68ccef34cbf1c9c0c6e279e3"
+  },
+  "name": "Schedule 1 (9/19/2025 - 9/23/2025)",
+  "startDate": {
+    "$date": "2025-09-18T18:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-09-22T18:30:00.000Z"
+  },
+  "status": "ongoing",
+  "groups": [
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f9714f"
+      },
+      "groupName": "Vegetables",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97154"
+          },
+          "varietyName": "Tomato Hybrid",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279e6"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97155"
+          },
+          "varietyName": "Cabbage Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279e7"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97156"
+          },
+          "varietyName": "Carrot Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279e8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef34cbf1c9c0c6e279e5"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97150"
+      },
+      "groupName": "Fruits",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97157"
+          },
+          "varietyName": "Banana Rasthali",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279eb"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97158"
+          },
+          "varietyName": "Mango Alphonso",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279ec"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef34cbf1c9c0c6e279ea"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97151"
+      },
+      "groupName": "Flowers",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97159"
+          },
+          "varietyName": "Rose Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279ef"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715a"
+          },
+          "varietyName": "Marigold Orange",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279f0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef34cbf1c9c0c6e279ee"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97152"
+      },
+      "groupName": "Herbs",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715b"
+          },
+          "varietyName": "Tulsi",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279f3"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715c"
+          },
+          "varietyName": "Mint",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279f4"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef34cbf1c9c0c6e279f2"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cb0d57c174a103b630a6dc"
+      },
+      "groupName": "Color",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ea"
+          },
+          "varietyName": "Mango",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279f7"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ed"
+          },
+          "varietyName": "Apple",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279f8"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f0"
+          },
+          "varietyName": "Pink",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279f9"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f3"
+          },
+          "varietyName": "Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279fa"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb10e37e93a17b8d0bf52d"
+          },
+          "varietyName": "White",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279fb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef34cbf1c9c0c6e279f6"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc24cb62161ae99b377e6e"
+      },
+      "groupName": "Fruit",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7b"
+          },
+          "varietyName": "Tomato",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279fe"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7e"
+          },
+          "varietyName": "Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e279ff"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e81"
+          },
+          "varietyName": "Papaya",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e27a00"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a94"
+          },
+          "varietyName": "Brinjal",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e27a01"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a97"
+          },
+          "varietyName": "Watermelon",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef34cbf1c9c0c6e27a02"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef34cbf1c9c0c6e279fd"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc255b62161ae99b377eb9"
+      },
+      "groupName": "Vegetable",
+      "varieties": [],
+      "_id": {
+        "$oid": "68ccef34cbf1c9c0c6e27a04"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T05:50:44.982Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T05:50:44.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccef35cbf1c9c0c6e27a06"
+  },
+  "name": "Schedule 2 (9/24/2025 - 9/28/2025)",
+  "startDate": {
+    "$date": "2025-09-23T18:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-09-27T18:30:00.000Z"
+  },
+  "status": "pending",
+  "groups": [
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f9714f"
+      },
+      "groupName": "Vegetables",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97154"
+          },
+          "varietyName": "Tomato Hybrid",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a09"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97155"
+          },
+          "varietyName": "Cabbage Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a0a"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97156"
+          },
+          "varietyName": "Carrot Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a0b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a08"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97150"
+      },
+      "groupName": "Fruits",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97157"
+          },
+          "varietyName": "Banana Rasthali",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a0e"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97158"
+          },
+          "varietyName": "Mango Alphonso",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a0f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a0d"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97151"
+      },
+      "groupName": "Flowers",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97159"
+          },
+          "varietyName": "Rose Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a12"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715a"
+          },
+          "varietyName": "Marigold Orange",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a13"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a11"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97152"
+      },
+      "groupName": "Herbs",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715b"
+          },
+          "varietyName": "Tulsi",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a16"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715c"
+          },
+          "varietyName": "Mint",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a17"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a15"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cb0d57c174a103b630a6dc"
+      },
+      "groupName": "Color",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ea"
+          },
+          "varietyName": "Mango",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a1a"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ed"
+          },
+          "varietyName": "Apple",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a1b"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f0"
+          },
+          "varietyName": "Pink",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a1c"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f3"
+          },
+          "varietyName": "Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a1d"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb10e37e93a17b8d0bf52d"
+          },
+          "varietyName": "White",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a1e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a19"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc24cb62161ae99b377e6e"
+      },
+      "groupName": "Fruit",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7b"
+          },
+          "varietyName": "Tomato",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a21"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7e"
+          },
+          "varietyName": "Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a22"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e81"
+          },
+          "varietyName": "Papaya",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a23"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a94"
+          },
+          "varietyName": "Brinjal",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a24"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a97"
+          },
+          "varietyName": "Watermelon",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a25"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a20"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc255b62161ae99b377eb9"
+      },
+      "groupName": "Vegetable",
+      "varieties": [],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a27"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T05:50:45.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T05:50:45.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccef35cbf1c9c0c6e27a29"
+  },
+  "name": "Schedule 3 (9/29/2025 - 10/3/2025)",
+  "startDate": {
+    "$date": "2025-09-28T18:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-10-02T18:30:00.000Z"
+  },
+  "status": "pending",
+  "groups": [
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f9714f"
+      },
+      "groupName": "Vegetables",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97154"
+          },
+          "varietyName": "Tomato Hybrid",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a2c"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97155"
+          },
+          "varietyName": "Cabbage Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a2d"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97156"
+          },
+          "varietyName": "Carrot Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a2e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a2b"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97150"
+      },
+      "groupName": "Fruits",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97157"
+          },
+          "varietyName": "Banana Rasthali",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a31"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97158"
+          },
+          "varietyName": "Mango Alphonso",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a32"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a30"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97151"
+      },
+      "groupName": "Flowers",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97159"
+          },
+          "varietyName": "Rose Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a35"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715a"
+          },
+          "varietyName": "Marigold Orange",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef35cbf1c9c0c6e27a36"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef35cbf1c9c0c6e27a34"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97152"
+      },
+      "groupName": "Herbs",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715b"
+          },
+          "varietyName": "Tulsi",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a39"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715c"
+          },
+          "varietyName": "Mint",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a3a"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a38"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cb0d57c174a103b630a6dc"
+      },
+      "groupName": "Color",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ea"
+          },
+          "varietyName": "Mango",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a3d"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ed"
+          },
+          "varietyName": "Apple",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a3e"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f0"
+          },
+          "varietyName": "Pink",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a3f"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f3"
+          },
+          "varietyName": "Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a40"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb10e37e93a17b8d0bf52d"
+          },
+          "varietyName": "White",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a41"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a3c"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc24cb62161ae99b377e6e"
+      },
+      "groupName": "Fruit",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7b"
+          },
+          "varietyName": "Tomato",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a44"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7e"
+          },
+          "varietyName": "Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a45"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e81"
+          },
+          "varietyName": "Papaya",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a46"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a94"
+          },
+          "varietyName": "Brinjal",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a47"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a97"
+          },
+          "varietyName": "Watermelon",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a48"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a43"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc255b62161ae99b377eb9"
+      },
+      "groupName": "Vegetable",
+      "varieties": [],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a4a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T05:50:46.325Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T05:50:46.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccef36cbf1c9c0c6e27a4c"
+  },
+  "name": "Schedule 4 (10/4/2025 - 10/8/2025)",
+  "startDate": {
+    "$date": "2025-10-03T18:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-10-07T18:30:00.000Z"
+  },
+  "status": "pending",
+  "groups": [
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f9714f"
+      },
+      "groupName": "Vegetables",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97154"
+          },
+          "varietyName": "Tomato Hybrid",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a4f"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97155"
+          },
+          "varietyName": "Cabbage Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a50"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97156"
+          },
+          "varietyName": "Carrot Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a51"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a4e"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97150"
+      },
+      "groupName": "Fruits",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97157"
+          },
+          "varietyName": "Banana Rasthali",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a54"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97158"
+          },
+          "varietyName": "Mango Alphonso",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a55"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a53"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97151"
+      },
+      "groupName": "Flowers",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f97159"
+          },
+          "varietyName": "Rose Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a58"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715a"
+          },
+          "varietyName": "Marigold Orange",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a59"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a57"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68ca1acdabdbc97078f97152"
+      },
+      "groupName": "Herbs",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715b"
+          },
+          "varietyName": "Tulsi",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a5c"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ca1acdabdbc97078f9715c"
+          },
+          "varietyName": "Mint",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a5d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a5b"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cb0d57c174a103b630a6dc"
+      },
+      "groupName": "Color",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ea"
+          },
+          "varietyName": "Mango",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a60"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ed"
+          },
+          "varietyName": "Apple",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a61"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f0"
+          },
+          "varietyName": "Pink",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a62"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f3"
+          },
+          "varietyName": "Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a63"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb10e37e93a17b8d0bf52d"
+          },
+          "varietyName": "White",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a64"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a5f"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc24cb62161ae99b377e6e"
+      },
+      "groupName": "Fruit",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7b"
+          },
+          "varietyName": "Tomato",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a67"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7e"
+          },
+          "varietyName": "Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a68"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e81"
+          },
+          "varietyName": "Papaya",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a69"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a94"
+          },
+          "varietyName": "Brinjal",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a6a"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68ccda4b112c13aac52b0a97"
+          },
+          "varietyName": "Watermelon",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccef36cbf1c9c0c6e27a6b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccef36cbf1c9c0c6e27a66"
+      }
+    },
+    {
+      "groupId": {
+        "$oid": "68cc255b62161ae99b377eb9"
+      },
+      "groupName": "Vegetable",
+      "varieties": [],
+      "_id": {
+        "$oid": "68ccef37cbf1c9c0c6e27a6d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T05:50:47.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T05:50:47.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ccefc6cbf1c9c0c6e27e5a"
+  },
+  "name": "Schedule (21 Nov - 25 Nov)",
+  "startDate": {
+    "$date": "2025-11-20T18:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-11-25T18:29:59.999Z"
+  },
+  "status": "pending",
+  "groups": [
+    {
+      "groupId": {
+        "$oid": "68cb0d57c174a103b630a6dc"
+      },
+      "groupName": "Color",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ea"
+          },
+          "varietyName": "Mango",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccefd4cbf1c9c0c6e27ed7"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ed"
+          },
+          "varietyName": "Apple",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccefd4cbf1c9c0c6e27ed8"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f0"
+          },
+          "varietyName": "Pink",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccefd4cbf1c9c0c6e27ed9"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f3"
+          },
+          "varietyName": "Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccefd4cbf1c9c0c6e27eda"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb10e37e93a17b8d0bf52d"
+          },
+          "varietyName": "White",
+          "bookings": [
+            {
+              "bookingId": {
+                "$oid": "68ccefc5cbf1c9c0c6e27e54"
+              },
+              "farmerId": {
+                "$oid": "68ca1adcf876de0f55bea8a8"
+              },
+              "quantity": 21
+            }
+          ],
+          "total": 21,
+          "completed": 10,
+          "_id": {
+            "$oid": "68ccefd4cbf1c9c0c6e27edb"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cc24cc62161ae99b377e7e"
+          },
+          "varietyName": "Green",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccf01b319864ebc825a6c7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccefc6cbf1c9c0c6e27e5c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T05:53:10.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T05:55:55.249Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "68ccf849cbf1c9c0c6e28364"
+  },
+  "name": "Schedule (21 Oct - 25 Oct)",
+  "startDate": {
+    "$date": "2025-10-20T18:30:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-10-25T18:29:59.999Z"
+  },
+  "status": "pending",
+  "groups": [
+    {
+      "groupId": {
+        "$oid": "68cb0d57c174a103b630a6dc"
+      },
+      "groupName": "Color",
+      "varieties": [
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ea"
+          },
+          "varietyName": "Mango",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccfcb0cbf1c9c0c6e2851b"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6ed"
+          },
+          "varietyName": "Apple",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccfcb0cbf1c9c0c6e2851c"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f0"
+          },
+          "varietyName": "Pink",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccfcb0cbf1c9c0c6e2851d"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb0d58c174a103b630a6f3"
+          },
+          "varietyName": "Red",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccfcb0cbf1c9c0c6e2851e"
+          }
+        },
+        {
+          "varietyId": {
+            "$oid": "68cb10e37e93a17b8d0bf52d"
+          },
+          "varietyName": "White",
+          "bookings": [],
+          "total": 0,
+          "completed": 0,
+          "_id": {
+            "$oid": "68ccfcb0cbf1c9c0c6e2851f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "68ccf849cbf1c9c0c6e28366"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-19T06:29:30.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-19T06:48:16.106Z"
+  },
+  "__v": 1
+}]

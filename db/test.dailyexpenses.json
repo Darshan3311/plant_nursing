@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "68c9cdf8a6019a6fd1abd9a9"
+  },
+  "amount": 200,
+  "description": "Kunal ne chai pi",
+  "date": {
+    "$date": "2025-09-16T20:52:08.626Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-16T20:52:08.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T20:52:08.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc26d062161ae99b378093"
+  },
+  "amount": 2000,
+  "description": "kunal ne chai pi",
+  "date": {
+    "$date": "2025-09-18T15:35:44.506Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T15:35:44.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:35:44.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc26d162161ae99b3780ab"
+  },
+  "amount": 2000,
+  "description": "kunal ne chai pi",
+  "date": {
+    "$date": "2025-09-18T15:35:45.902Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T15:35:45.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:35:45.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cc27c062161ae99b3780f3"
+  },
+  "amount": 200,
+  "description": "Yash ne wadapav khaya",
+  "date": {
+    "$date": "2025-09-18T15:39:44.361Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-18T15:39:44.361Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-18T15:39:44.361Z"
+  },
+  "__v": 0
+}]

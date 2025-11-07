@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "68aa1e44a413453fc4403ed0"
+  },
+  "group": {
+    "$oid": "688ba7d3731562851cc1412f"
+  },
+  "variety": {
+    "$oid": "688ba7d3731562851cc14139"
+  },
+  "date": {
+    "$date": "2025-08-27T00:00:00.000Z"
+  },
+  "value": 40,
+  "description": "sdfasdfa",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2025-08-23T20:02:12.215Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T20:02:12.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aa1fc0a413453fc4403f9c"
+  },
+  "group": {
+    "$oid": "688ba7d3731562851cc1412e"
+  },
+  "variety": {
+    "$oid": "688ba7d3731562851cc14136"
+  },
+  "date": {
+    "$date": "2025-08-22T00:00:00.000Z"
+  },
+  "value": 50,
+  "description": "fdkasjf",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2025-08-23T20:08:32.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T20:30:12.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68aa2008a413453fc4403fb5"
+  },
+  "group": {
+    "$oid": "688ba7d3731562851cc1412e"
+  },
+  "variety": {
+    "$oid": "688ba7d3731562851cc14137"
+  },
+  "date": {
+    "$date": "2025-08-16T00:00:00.000Z"
+  },
+  "value": 50,
+  "description": "fadfa",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2025-08-23T20:09:44.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T20:20:02.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c47e82dddadbde25526fb7"
+  },
+  "group": {
+    "$oid": "68c47c89b6810638af2e7994"
+  },
+  "variety": {
+    "$oid": "68c47c89b6810638af2e79a6"
+  },
+  "date": {
+    "$date": "2025-09-19T00:00:00.000Z"
+  },
+  "value": 10,
+  "description": "zxvbn zdfgh",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2025-09-12T20:11:46.981Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T20:11:46.981Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "6899f41fa16cb36ca0f26be3"
+  },
+  "type": "regular",
+  "fullName": "Ritika nimba sonawane",
+  "contactNumber": "0860 584 4649",
+  "address": "Swatantra sainik nager",
+  "joiningDate": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "salary": 5000,
+  "dailyWages": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-08-11T13:46:07.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T13:46:07.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891ae5d98d23cebc748efbc"
+  },
+  "type": "wages",
+  "fullName": "Ritika nimba sonawane",
+  "contactNumber": "0860 584 4649",
+  "address": "Swatantra sainik nager",
+  "joiningDate": {
+    "$date": "2025-08-28T00:00:00.000Z"
+  },
+  "salary": null,
+  "dailyWages": 5000,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-08-05T07:10:21.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:10:21.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a0b7a6c6eae11d9618b990"
+  },
+  "type": "regular",
+  "fullName": "yash patil",
+  "contactNumber": "1234567899",
+  "address": "so ",
+  "joiningDate": {
+    "$date": "2025-08-16T00:00:00.000Z"
+  },
+  "salary": 120000,
+  "dailyWages": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-08-16T16:53:58.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T16:53:58.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689086b8f406711948bd7333"
+  },
+  "type": "regular",
+  "fullName": "Soham Sonwane",
+  "contactNumber": "09309064976",
+  "address": "Bhaigaon road",
+  "joiningDate": {
+    "$date": "2025-08-07T00:00:00.000Z"
+  },
+  "salary": 50,
+  "dailyWages": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-08-04T10:08:56.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T10:08:56.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891bc3f98d23cebc748eff5"
+  },
+  "type": "wages",
+  "fullName": "Soham Sonwane",
+  "contactNumber": "09309064976",
+  "address": "Bhaigaon road",
+  "joiningDate": {
+    "$date": "2025-08-12T00:00:00.000Z"
+  },
+  "salary": null,
+  "dailyWages": 500,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-08-05T08:09:35.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-14T08:42:40.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a0b5f0c6eae11d9618b93b"
+  },
+  "type": "regular",
+  "fullName": "abc",
+  "contactNumber": "1234567899",
+  "address": "gyhjgjhg",
+  "joiningDate": {
+    "$date": "2025-08-16T00:00:00.000Z"
+  },
+  "salary": 7897,
+  "dailyWages": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-08-16T16:46:40.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T16:46:40.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891ae4998d23cebc748efb9"
+  },
+  "type": "regular",
+  "fullName": "Soham Sonwane",
+  "contactNumber": "09309064976",
+  "address": "3,venktesh hostel",
+  "joiningDate": {
+    "$date": "2025-08-19T00:00:00.000Z"
+  },
+  "salary": 5000,
+  "dailyWages": null,
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-08-05T07:10:01.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:10:01.842Z"
+  },
+  "__v": 0
+}]
